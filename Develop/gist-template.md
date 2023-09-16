@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Challenge17_Regex_Tutorial
 
-Introductory paragraph (replace this with your text)
+Challenge17_Regex_Tutorial
 
 ## Summary
 
